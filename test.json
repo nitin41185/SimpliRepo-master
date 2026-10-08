@@ -1,0 +1,50 @@
+{
+  "students": [
+    {
+      "id": "101",
+      "name": "Lavanya"
+    },
+    {
+      "id": "102",
+      "name": "Vikas Reddy"
+    },
+    {
+      "id": "124",
+      "name": "Satyam Kumar"
+    },
+    {
+      "id": "456",
+      "name": "Preethi Kaur"
+    },
+    {
+      "id": "amDEPdKo2yw",
+      "name": "Murari Kumar"
+    },
+    {
+      "id": "dXJ3uQP7EvM",
+      "name": "Varun"
+    },
+    {
+      "id": "8gEdSp8BYjE",
+      "name": "Parvathi"
+    }
+  ],
+  "employee": [
+    {
+      "eid": 11,
+      "ename": "Pavani",
+      "id": "zm-le6fK0Og"
+    },
+    {
+      "eid": 12,
+      "ename": "Kiranmayee",
+      "id": "zAVTmlo_2bM"
+    },
+    {
+      "eid": 13,
+      "ename": "Mohana",
+      "id": "5aC39CaoiD4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
